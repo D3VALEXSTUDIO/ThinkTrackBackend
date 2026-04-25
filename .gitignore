@@ -1,0 +1,12 @@
+# 🚫 Backend
+backend/
+server.js
+
+# 🚫 Node modules
+node_modules/
+
+# 🚫 Env files
+.env
+
+# 🚫 Logs
+*.log
